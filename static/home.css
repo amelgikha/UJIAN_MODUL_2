@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-image: url(../static/H2x1_NSwitch_PokemonLetsGoPikachu_enGB_image1600w.jpg);
+    font-family: "Iceland", cursive;
+  }
+  .searchBar {
+    padding: 20px 0;
+    text-align: center;
+    background-color: #e8332a;
+    border-radius: 8px 8px 0 0;
+  }
+  label {
+    font-size: 1.3rem;
+  }
+  input[type="text"] {
+    height: 40px;
+    padding-left: 10px;
+    font-family: "Iceland", cursive;
+  }
+
+  .container {
+    width: 450px;
+    margin-top: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    color: #000;
+    border-radius: 15px;
+    box-shadow: 10px 10px 0px 0px rgb(110, 104, 104);
+  }
